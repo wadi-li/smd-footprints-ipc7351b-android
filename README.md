@@ -1,16 +1,16 @@
-<div align="center">
-
-<img src="assets/ipc-7351b-cover.svg" alt="IPC-7351B-2010 — Generic Requirements for Surface Mount Design and Land Pattern Standard" width="280">
-
 # IPC-7351B-2010
 
-### Generic Requirements for Surface Mount Design and Land Pattern Standard
+**Generic Requirements for Surface Mount Design and Land Pattern Standard**
 
-### [⬇️ **СКАЧАТЬ APK**](https://github.com/wadi-li/smd-footprints-ipc7351b-android/releases/latest/download/IPC7351B.apk)
+![Обложка стандарта IPC-7351B-2010](assets/ipc-7351b-cover.svg)
+
+## Скачать приложение для Android
+
+[![СКАЧАТЬ APK](https://img.shields.io/badge/%E2%AC%87%20%D0%A1%D0%9A%D0%90%D0%A7%D0%90%D0%A2%D0%AC%20APK-0969DA?style=for-the-badge&logo=android&logoColor=white)](https://github.com/wadi-li/smd-footprints-ipc7351b-android/releases/latest/download/IPC7351B.apk)
 
 **[Все версии и релизы](https://github.com/wadi-li/smd-footprints-ipc7351b-android/releases)** · **[Веб-версия](https://wadi-li.github.io/smd-footprints-ipc7351b-android/)**
 
-</div>
+---
 
 ## О приложении
 
