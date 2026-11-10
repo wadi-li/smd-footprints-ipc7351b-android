@@ -11,7 +11,7 @@
 
 - WEB: HTML/JavaScript-приложение в браузере, без установки. Публикуется из `docs/` на GitHub Pages.
 - Android: локальная WebView-обёртка тех же файлов, Android 7.0 и новее. APK собирается GitHub Actions и публикуется в Releases после успешной сборки.
-- Если кнопка Android возвращает 404, последний релиз ещё не опубликован. Проверьте [Releases](https://github.com/wadi-li/smd-footprints-ipc7351b-android/releases) и [Actions](https://github.com/wadi-li/smd-footprints-ipc7351b-android/actions). На момент подготовки этого README наличие опубликованного APK не подтверждено.
+- Если кнопка Android возвращает 404, последний релиз ещё не опубликован. Проверьте [Releases](https://github.com/wadi-li/smd-footprints-ipc7351b-android/releases) и [Actions](https://github.com/wadi-li/smd-footprints-ipc7351b-android/actions).
 - Для GitHub Pages требуется Settings → Pages → Source: GitHub Actions. Наличие исходников само по себе не подтверждает успешный деплой.
 - Android использует локальные ресурсы. WEB может работать офлайн после успешного кэширования service worker; первое открытие требует сети. Офлайн-доступ зависит от браузера и сохранности кэша.
 
